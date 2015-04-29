@@ -4,6 +4,9 @@ How To Lose Contributors And Alienate Coworkers
 *TODO*: Convert this into a proper `pip` module that autoinstalls to
 `.gitconfig`.
 
+You'll probably want to run `pip install -r requirements.txt` before running the
+script.
+
 ```
 usage: git-guilt [-h] [-s] [-g] [-f] [-j] ...
 
